@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://yasirrao:temp%40123@cluster0.cg5qe.mongodb.net/tinderdb?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "a675b9fb88126bee9255",
+    "githubClientSecret": "f12629ed9d22ef0c84e12e1ce9c32e279cf529df"
+}
